@@ -1,0 +1,25 @@
+{
+	"name": "maya-deployer",
+	"version": "1.0.0",
+	"description": "Fast and feature-rich multi-network Ethereum client.",
+	"main": "index.js",
+	"directories": {
+		"doc": "docs"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mayachain/openethereum.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/mayachain/openethereum/issues"
+	},
+	"homepage": "https://github.com/mayachain/openethereum#readme",
+	"dependencies": {
+		"shelljs": "^0.8.4"
+	}
+}
